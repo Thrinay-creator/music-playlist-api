@@ -180,19 +180,4 @@ Important test cases include:
 * Update a song
 * Delete a song
 
-## Screenshots
 
-### Postman API Response
-
-Add your Postman screenshot here.
-
-
-```
-
-### MongoDB Atlas Data
-
-Add your MongoDB Atlas screenshot here.
-
-
-
-```
