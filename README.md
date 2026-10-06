@@ -186,7 +186,7 @@ Important test cases include:
 
 Add your Postman screenshot here.
 
-![alt text](image.png)
+
 ```
 
 ### MongoDB Atlas Data
